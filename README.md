@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @e23976bf
+- 👋 Hi, I’m @e23976bf@gmail.com
 
 ZL2TLD, RE78jr20SU
 
