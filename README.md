@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @e23976bf
-- 👀 I’m interested in females
-- 🌱 I’m currently learning to pee standing up
-- 💞️ I’m looking to collaborate on rolling joints
-- 📫 How to reach me ...  Stretch out your hand
 
-- TF? Need to address defaults.
+ZL2TLD, RE78jr20SU
 
-<!---
-e23976bf/e23976bf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mostly inactive; playing with 240GHz and 660THz
+
+Herewith a repository for C code and Python code created by AI and hacked by myself.
+No responsibility.  Use at your own risk.
+
+I'm scratch building a CNC machine with a cutting laser and probably a routing spindle too.
+The innovation is tilting the laser head to cut at an angle.  Working on it.
+
