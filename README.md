@@ -2,7 +2,7 @@
 
 ZL2TLD, RE78jr20SU
 
-Mostly inactive; playing with 240GHz and 660THz.
+Mostly inactive; playing with 24GHz and 660THz.
 Sole kit is Quangshen HT on 2 & 70.
 Until I get aroung to building SDR transceiver for 40/30/20.
 
