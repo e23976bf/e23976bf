@@ -12,9 +12,9 @@ Herewith a repository for C code and Python code created by AI and hacked by mys
 
 No responsibility.  Use at your own risk.
 
-I'm scratch building a CNC machine with a cutting laser and probably a routing spindle too.
+C seems to be the only language that I am moderately familiar with, that is still in common use. Pascal, Algol, BASIC, forth, all seem to have become obsolete. I've never used object-oriented languages before. Python is an interesting novelty to me. C++ and Java, I will get around to eventually.  No hurry.
 
-The innovation is tilting the laser head to cut at an angle.  Working on it.
+I'm scratch building a CNC machine with a cutting laser and probably a routing spindle too.  The innovation is tilting the laser head to cut at an angle.  Working on it.
 
 /*
   
@@ -24,7 +24,7 @@ Glenn, ZL2TLD, RE78jr20SU
 
 email echo two three nine seven six bravo foxtrot at gmail
 
-Arduino uno, pi pico, esp32....
+Arduino uno, pi pico, esp32....  I need a real raspberry, but I really appreciate the <$10 dev boards available from China.  But you have to be technically proficient in order to discover and accommodate the oddities inherent in cheap copies.
 
 Don't be mean about my coding.
 
