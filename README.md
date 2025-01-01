@@ -4,9 +4,9 @@ ZL2TLD, RE78jr20SU
 
 Mostly inactive; playing with 24GHz and 660THz.
 
-Sole kit is Quangshen HT on 2 & 70.
+Sole kit is Quangshen HT on 2 & 70, running Egzumer firmware.  Until I get around to building some sort of SDR transceiver for 40/30/20.
+The ex seems to have disposed of my Yaesu FT897, Kenwood TS670 and other pieces of kit, transceivers and tools like oscilloscopes, multimeters, soldering stations, sewing machine & overlocker, huge component hoard...   I reckon I'm out about 40 grand.
 
-Until I get aroung to building SDR transceiver for 40/30/20.
 
 Herewith a repository for C code and Python code created by AI and hacked by myself.
 
